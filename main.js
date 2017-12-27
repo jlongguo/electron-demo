@@ -3,7 +3,6 @@ const url=require('url');
 const path=require('path');
 
 let win;
-
 function CreatWindow() {
     win=new BrowserWindow({
         width:800,
