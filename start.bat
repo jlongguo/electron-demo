@@ -1,1 +1,1 @@
-electron .
+C:\Users\gjl40\Desktop\electron-ci\electron .
