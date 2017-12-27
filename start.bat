@@ -1,1 +1,1 @@
-C:\Users\gjl40\Desktop\electron-ci\electron .
+electron-packager
