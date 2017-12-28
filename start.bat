@@ -1,1 +1,1 @@
-electron-packager
+echo electron .
